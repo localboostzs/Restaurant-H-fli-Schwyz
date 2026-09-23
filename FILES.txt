@@ -1,0 +1,15 @@
+index.html
+assets/fonts/fonts.css
+assets/fonts/dm-sans-400.ttf
+assets/fonts/dm-sans-500.ttf
+assets/fonts/dm-sans-600.ttf
+assets/fonts/dm-sans-700.ttf
+assets/fonts/playfair-display-600.ttf
+assets/fonts/playfair-display-700.ttf
+assets/images/hero-restaurant.jpg
+assets/images/interior.jpg
+assets/images/gallery-main.jpg
+assets/images/gallery-warm.jpg
+assets/images/gallery-ambience.jpg
+FILES.txt
+REFERENCE-AUDIT.txt

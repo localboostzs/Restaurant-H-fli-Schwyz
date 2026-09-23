@@ -1,0 +1,14 @@
+Portable export audit
+
+- Root entry point: index.html
+- Missing local references: none
+- Local computer paths: none
+- Secrets, tokens, API keys, or private prompts: none found
+- Images and web fonts are bundled under assets/ and use relative paths.
+
+Intentional external references:
+- Google Maps directions links (visitor action)
+- Google Maps embedded map (live third-party content)
+- http://www.w3.org/2000/svg appears only as the SVG namespace inside the inline favicon data URL; it is not fetched as a file.
+
+The page layout, styling, scripts, images, and fonts work from the exported folder. Live map content and route planning require internet access to Google Maps.
